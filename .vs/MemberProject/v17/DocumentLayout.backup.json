@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|c:\\users\\administrator\\desktop\\testproject\\memberproject\\memberproject\\memberproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|solutionrelative:memberproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|c:\\users\\administrator\\desktop\\testproject\\memberproject\\memberproject\\memberproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|solutionrelative:memberproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|c:\\users\\administrator\\desktop\\testproject\\memberproject\\memberproject\\memberproject\\views\\home\\applic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|solutionrelative:memberproject\\views\\home\\applic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|c:\\users\\administrator\\desktop\\testproject\\memberproject\\memberproject\\memberproject\\service\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|solutionrelative:memberproject\\service\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|c:\\users\\administrator\\desktop\\testproject\\memberproject\\memberproject\\memberproject\\manager\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|solutionrelative:memberproject\\manager\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|c:\\users\\administrator\\desktop\\testproject\\memberproject\\memberproject\\memberproject\\models\\dbmodel\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|solutionrelative:memberproject\\models\\dbmodel\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|c:\\users\\administrator\\desktop\\testproject\\memberproject\\memberproject\\memberproject\\context\\memberdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|solutionrelative:memberproject\\context\\memberdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|c:\\users\\administrator\\desktop\\testproject\\memberproject\\memberproject\\memberproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|solutionrelative:memberproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|c:\\users\\administrator\\desktop\\testproject\\memberproject\\memberproject\\memberproject\\models\\viewmodel\\applicviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|solutionrelative:memberproject\\models\\viewmodel\\applicviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|c:\\users\\administrator\\desktop\\testproject\\memberproject\\memberproject\\memberproject\\utils\\encryptutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|solutionrelative:memberproject\\utils\\encryptutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|c:\\users\\administrator\\desktop\\testproject\\memberproject\\memberproject\\memberproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE395C34-3232-4294-B291-14FB15D71E05}|MemberProject\\MemberProject.csproj|solutionrelative:memberproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MemberProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MemberProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADwvzAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:36:41.438Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Service\\MemberService.cs",
+              "RelativeDocumentMoniker": "MemberProject\\Service\\MemberService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Service\\MemberService.cs",
+              "RelativeToolTip": "MemberProject\\Service\\MemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:15:33.168Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Manager\\MemberManager.cs",
+              "RelativeDocumentMoniker": "MemberProject\\Manager\\MemberManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Manager\\MemberManager.cs",
+              "RelativeToolTip": "MemberProject\\Manager\\MemberManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:14:53.601Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Applic.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Views\\Home\\Applic.cshtml",
+              "RelativeDocumentMoniker": "MemberProject\\Views\\Home\\Applic.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Views\\Home\\Applic.cshtml",
+              "RelativeToolTip": "MemberProject\\Views\\Home\\Applic.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T18:31:18.406Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Context\\MemberDbContext.cs",
+              "RelativeDocumentMoniker": "MemberProject\\Context\\MemberDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Context\\MemberDbContext.cs",
+              "RelativeToolTip": "MemberProject\\Context\\MemberDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:10:11.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EncryptUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Utils\\EncryptUtil.cs",
+              "RelativeDocumentMoniker": "MemberProject\\Utils\\EncryptUtil.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Utils\\EncryptUtil.cs",
+              "RelativeToolTip": "MemberProject\\Utils\\EncryptUtil.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:52:28.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Program.cs",
+              "RelativeDocumentMoniker": "MemberProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Program.cs",
+              "RelativeToolTip": "MemberProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:52:07.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Models\\ViewModel\\ApplicViewModel.cs",
+              "RelativeDocumentMoniker": "MemberProject\\Models\\ViewModel\\ApplicViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Models\\ViewModel\\ApplicViewModel.cs",
+              "RelativeToolTip": "MemberProject\\Models\\ViewModel\\ApplicViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:59:58.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Models\\DBModel\\Member.cs",
+              "RelativeDocumentMoniker": "MemberProject\\Models\\DBModel\\Member.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Models\\DBModel\\Member.cs",
+              "RelativeToolTip": "MemberProject\\Models\\DBModel\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:43:39.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\appsettings.json",
+              "RelativeDocumentMoniker": "MemberProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\appsettings.json",
+              "RelativeToolTip": "MemberProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T04:15:03.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MemberProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MemberProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T01:56:21.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

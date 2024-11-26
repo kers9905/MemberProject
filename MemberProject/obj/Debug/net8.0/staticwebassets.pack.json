@@ -1,0 +1,641 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MemberProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MemberProject.i3mzxoigtn.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\album-rtl\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\album-rtl\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\album\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\album\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\assets\\brand\\bootstrap-logo-white.svg",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\assets\\brand\\bootstrap-logo-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\assets\\brand\\bootstrap-logo.svg",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\assets\\brand\\bootstrap-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\assets\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\assets\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\assets\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\assets\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\assets\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\assets\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\assets\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\assets\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\assets\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\assets\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\assets\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\assets\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\assets\\js\\color-modes.js",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\assets\\js\\color-modes.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\badges\\badges.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\badges\\badges.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\badges\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\badges\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\blog-rtl\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\blog-rtl\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\blog\\blog.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\blog\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\blog\\blog.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\blog\\blog.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\blog\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\blog\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\breadcrumbs\\breadcrumbs.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\breadcrumbs\\breadcrumbs.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\breadcrumbs\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\breadcrumbs\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\buttons\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\buttons\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\carousel-rtl\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\carousel-rtl\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\carousel\\carousel.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\carousel\\carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\carousel\\carousel.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\carousel\\carousel.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\carousel\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\carousel\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\cheatsheet-rtl\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\cheatsheet-rtl\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\cheatsheet\\cheatsheet.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\cheatsheet\\cheatsheet.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\cheatsheet\\cheatsheet.js",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\cheatsheet\\cheatsheet.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\cheatsheet\\cheatsheet.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\cheatsheet\\cheatsheet.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\cheatsheet\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\cheatsheet\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\checkout-rtl\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\checkout-rtl\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\checkout\\checkout.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\checkout\\checkout.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\checkout\\checkout.js",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\checkout\\checkout.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\checkout\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\checkout\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\cover\\cover.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\cover\\cover.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\cover\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\cover\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\dashboard-rtl\\dashboard.js",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\dashboard-rtl\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\dashboard-rtl\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\dashboard-rtl\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\dashboard\\dashboard.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\dashboard\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\dashboard\\dashboard.js",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\dashboard\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\dashboard\\dashboard.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\dashboard\\dashboard.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\dashboard\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\dashboard\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\dropdowns\\dropdowns.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\dropdowns\\dropdowns.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\dropdowns\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\dropdowns\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\features\\features.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\features\\features.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\features\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\features\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\features\\unsplash-photo-1.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\features\\unsplash-photo-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\features\\unsplash-photo-2.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\features\\unsplash-photo-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\features\\unsplash-photo-3.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\features\\unsplash-photo-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\footers\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\footers\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\grid\\grid.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\grid\\grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\grid\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\grid\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\headers\\headers.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\headers\\headers.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\headers\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\headers\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\heroes\\bootstrap-docs.png",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\heroes\\bootstrap-docs.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\heroes\\bootstrap-themes.png",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\heroes\\bootstrap-themes.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\heroes\\heroes.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\heroes\\heroes.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\heroes\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\heroes\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\jumbotron\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\jumbotron\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\jumbotrons\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\jumbotrons\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\jumbotrons\\jumbotrons.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\jumbotrons\\jumbotrons.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\list-groups\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\list-groups\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\list-groups\\list-groups.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\list-groups\\list-groups.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\masonry\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\masonry\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\modals\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\modals\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\modals\\modals.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\modals\\modals.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\navbar-bottom\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\navbar-bottom\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\navbar-fixed\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\navbar-fixed\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\navbar-fixed\\navbar-fixed.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\navbar-fixed\\navbar-fixed.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\navbar-static\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\navbar-static\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\navbar-static\\navbar-static.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\navbar-static\\navbar-static.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\navbars-offcanvas\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\navbars-offcanvas\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\navbars-offcanvas\\navbars-offcanvas.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\navbars-offcanvas\\navbars-offcanvas.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\navbars\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\navbars\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\navbars\\navbars.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\navbars\\navbars.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\offcanvas-navbar\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\offcanvas-navbar\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\offcanvas-navbar\\offcanvas-navbar.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\offcanvas-navbar\\offcanvas-navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\offcanvas-navbar\\offcanvas-navbar.js",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\offcanvas-navbar\\offcanvas-navbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\offcanvas\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\offcanvas\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\pricing\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\pricing\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\pricing\\pricing.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\pricing\\pricing.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\product\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\product\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\product\\product.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\product\\product.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\sidebars\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\sidebars\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\sidebars\\sidebars.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\sidebars\\sidebars.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\sidebars\\sidebars.js",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\sidebars\\sidebars.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\sign-in\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\sign-in\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\sign-in\\sign-in.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\sign-in\\sign-in.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\starter-template\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\starter-template\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\sticky-footer-navbar\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\sticky-footer-navbar\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\sticky-footer-navbar\\sticky-footer-navbar.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\sticky-footer-navbar\\sticky-footer-navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\sticky-footer\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\sticky-footer\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\bootstrap\\bootstrap-5.3.3-examples\\sticky-footer\\sticky-footer.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-5.3.3-examples\\sticky-footer\\sticky-footer.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\js\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\testProject\\MemberProject\\MemberProject\\MemberProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MemberProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MemberProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MemberProject.props",
+      "PackagePath": "build\\MemberProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MemberProject.props",
+      "PackagePath": "buildMultiTargeting\\MemberProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MemberProject.props",
+      "PackagePath": "buildTransitive\\MemberProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,137 @@
+﻿<div class="container">
+	<main>
+		<div class="row g-5">
+			<div class="col-md-7 col-lg-8">
+				<h4 class="mb-3">會員註冊</h4>
+				<form>
+					<div class="row g-3">
+
+						<div class="col-12">
+							<label for="memberAcc" class="form-label">帳號</label>
+							<div class="input-group has-validation">
+								<span class="input-group-text"></span>
+								<input type="text" class="form-control" id="memberAcc" placeholder="須包含英數，8~16位" required>
+								<div class="invalid-feedback">
+									請輸入帳號
+								</div>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<label for="memberPass" class="form-label">密碼</label>
+							<div class="input-group has-validation">
+								<span class="input-group-text"></span>
+								<input type="text" class="form-control" id="memberPass" placeholder="須包含英數，8~16位" required>
+								<div class="invalid-feedback">
+									請輸入密碼
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-6">
+							<label for="firstName" class="form-label">姓</label>
+							<input type="text" class="form-control" id="firstName" placeholder="" value="" required>
+							<div class="invalid-feedback">
+								請輸入姓氏
+							</div>
+						</div>
+
+						<div class="col-sm-6">
+							<label for="lastName" class="form-label">名</label>
+							<input type="text" class="form-control" id="lastName" placeholder="" value="" required>
+							<div class="invalid-feedback">
+								請輸入名字
+							</div>
+						</div>
+
+
+						<div class="col-12">
+							<label for="email" class="form-label">Email</label>
+							<input type="email" class="form-control" id="email" placeholder="your@example.com">
+							<div class="invalid-feedback">
+								請輸入Email
+							</div>
+						</div>
+
+					</div>
+
+
+					<hr class="my-4">
+
+					<button class="w-100 btn btn-primary btn-lg" type="button" id="btnSave">確認</button>
+				</form>
+			</div>
+		</div>
+	</main>
+
+	<footer class="my-5 pt-5 text-body-secondary text-center text-small">
+		<p class="mb-1">XXXX 系統</p>
+		<ul class="list-inline">
+			<li class="list-inline-item"><a href="#">Privacy</a></li>
+			<li class="list-inline-item"><a href="#">Terms</a></li>
+			<li class="list-inline-item"><a href="#">Support</a></li>
+		</ul>
+	</footer>
+</div>
+<script src="~/bootstrap/bootstrap-5.3.3-examples/assets/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/jquery-3.7.1.min.js"></script>
+
+<script type="text/javascript">
+	$(function() {
+
+		$("#btnSave").click(function() {
+			let formData = new FormData();
+			let memberAcc = $("#memberAcc").val();
+			let memberPass = $("#memberPass").val();
+			let firstName = $("#firstName").val();
+			let lastName = $("#lastName").val();
+			let email = $("#email").val();
+
+
+			
+			if (!memberAcc) {
+				alert("會員帳號不得為空！");
+				return;
+			} else if (!/^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,16}$/.test(memberAcc)) {
+				alert("會員帳號需包含英數字，且長度需為8~16位！");
+				return;
+			}
+
+			if (!memberPass) {
+				alert("會員密碼不得為空！");
+				return;
+			} else if (!/^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,16}$/.test(memberPass)) {
+				alert("會員密碼只能包含英數字，且長度需為8~16位！");
+				return;
+			}
+
+			formData.append("memberAcc", memberAcc);
+			formData.append("memberPass", memberPass);
+			formData.append("firstName", firstName);
+			formData.append("lastName", lastName);
+			formData.append("email", email);
+
+			$.ajax({
+				type: "POST",
+				url: '@(Url.Action("Save", "Home"))',
+				data: formData,
+				processData: false,
+				contentType: false,
+				success: function(result) {
+					if(result.success){
+						alert(result.message);
+						window.location.href = '@Url.Action("Index", "Home")';
+					}
+					else{
+						alert(result.message);
+					}
+				},
+				error: function (error) {
+					alert(error);
+				}
+
+			});
+		});
+
+	});
+</script>
